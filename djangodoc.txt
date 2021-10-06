@@ -1,0 +1,3 @@
+Django - is a free and open source web application framework, written in Python.
+    manage.py is a script that helps with management of the site.
+    settings.py file contains the configuration of your website.
